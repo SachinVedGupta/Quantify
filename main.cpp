@@ -8,11 +8,6 @@
 #include <fstream>
 using namespace std;
 
-// to run code use:
-// cd "/Users/harsh/Desktop/Sachin Copy/" && g++ -std=c++11 main.cpp -o main -lcurl && "/Users/harsh/Desktop/Sachin Copy/"main
-// cd "/Users/harsh/Desktop/Stockie Code V2.0/" && g++ -std=c++11 main.cpp -o main -lcurl && "/Users/harsh/Desktop/Stockie Code V2.0/"main
-// cd cd "/Users/harsh/Desktop/Stockie Code V2.0/" && g++ -std=c++11 main.cpp -o main -lcurl && "/Users/harsh/Desktop/Stockie Code V2.0/"main
-// cd "/Users/sachingupta/Desktop/Stockie Code V2.0/" && g++ -std=c++11 main.cpp -o main -lcurl && "/Users/sachingupta/Desktop/Stockie Code V2.0/"main
 
 /*
 cd "/Users/sachingupta/Desktop/THESTOCKIE/" && g++ -std=c++11 main.cpp -o main -lcurl && "/Users/sachingupta/Desktop/THESTOCKIE/"main
