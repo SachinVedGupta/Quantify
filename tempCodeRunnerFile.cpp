@@ -1,0 +1,1 @@
+// cd "/Users/harsh/Desktop/Stockie Code V2.0/" && g++ -std=c++11 main.cpp -o main -lcurl && "/Users/harsh/Desktop/Stockie Code V2.0/"main
