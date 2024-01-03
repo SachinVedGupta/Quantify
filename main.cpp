@@ -283,7 +283,7 @@ void topTenRatingStocks()
     }
 
     // Outputting Top Stocks
-    std::cout << "Top Ten Best Rated Stocks:" << std::endl;
+    std::cout << "Current Top Ten Highest Rated Stocks:" << std::endl;
     std::cout << "1. " << nasdaqData[ratings[0]].value("name", "not found") << " (" << nasdaqData[ratings[0]].value("symbol", "not found") << ", " << symbolRating[0] << ")" << std::endl;
     std::cout << "2. " << nasdaqData[ratings[1]].value("name", "not found") << " (" << nasdaqData[ratings[1]].value("symbol", "not found") << ", " << symbolRating[1] << ")" << std::endl;
     std::cout << "3. " << nasdaqData[ratings[2]].value("name", "not found") << " (" << nasdaqData[ratings[2]].value("symbol", "not found") << ", " << symbolRating[2] << ")" << std::endl;
